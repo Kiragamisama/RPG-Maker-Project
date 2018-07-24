@@ -1,0 +1,3 @@
+﻿Pull -> ADD -> Commit -> Push -> Pull ....
+
+https://devahoy.com/posts/introduction-to-git-and-github/ อ่านเอาเองนะ
