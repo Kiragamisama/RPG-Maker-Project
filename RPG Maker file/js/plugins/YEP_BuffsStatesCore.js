@@ -2039,6 +2039,7 @@ Sprite_StateIcon.prototype.drawBuffRate = function(paramId) {
 // Window_Base
 //=============================================================================
 
+
 Yanfly.BSC.Window_Base_drawActorIcons = Window_Base.prototype.drawActorIcons;
 Window_Base.prototype.drawActorIcons = function(actor, wx, wy, ww) {
   ww = ww || 144;
