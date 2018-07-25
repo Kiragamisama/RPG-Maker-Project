@@ -1,0 +1,6 @@
+﻿Change @25/07/2561 [GEAR]
+1. Weapon Ability สกิลที่ติดมากับอาวุธ
+2. Class Ability สกิลจากคลาส
+4. Secret Ability สกิลที่ได้มาจากภารกิจลับ etc
+5. Basic Skill สกิลกดใช้ประเภทตกปลา คราฟของ etc
+(6). Passive Skill น่าจะใช้ State แทน ไม่งั้นมันจะกดใช้งานได้ (YEP Auto PassiveState)
