@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"N","characterIndex":0,"characterName":"N","classId":1,"equips":[2,1,2,3,0,1],"faceIndex":0,"faceName":"N","traits":[{"code":52,"dataId":7,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Peony","nickname":"","note":"<Start MP: 20>","profile":""}
+{"id":1,"battlerName":"N","characterIndex":0,"characterName":"N","classId":1,"equips":[2,1,2,3,0,1],"faceIndex":0,"faceName":"N","traits":[{"code":52,"dataId":7,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Peony","nickname":"","note":"","profile":""}
 ]
